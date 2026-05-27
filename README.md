@@ -1,2 +1,2 @@
 # iza-netrysa
-uiux-mobile-app-design
+portfolio-website-design
